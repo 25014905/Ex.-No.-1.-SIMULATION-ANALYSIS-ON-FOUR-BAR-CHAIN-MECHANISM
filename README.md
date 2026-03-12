@@ -26,15 +26,16 @@
 
 ## INPUT:
 
-<img width="1546" height="497" alt="Screenshot 2026-03-12 085839" src="https://github.com/user-attachments/assets/ea625373-ad9d-45c3-ab42-f29339554ce5" />
+
+<img width="1372" height="825" alt="image" src="https://github.com/user-attachments/assets/c479cc93-63d5-487f-9326-bd7945f922db" />
 
 
 ## Output:
 <img width="1426" height="762" alt="Screenshot 2026-03-12 085812" src="https://github.com/user-attachments/assets/a366b7d8-f76c-4aa1-8544-f63c69e30281" />
 
 
-<img width="1372" height="825" alt="image" src="https://github.com/user-attachments/assets/c479cc93-63d5-487f-9326-bd7945f922db" />
 
+<img width="1546" height="497" alt="Screenshot 2026-03-12 085839" src="https://github.com/user-attachments/assets/ea625373-ad9d-45c3-ab42-f29339554ce5" />
 
 
 ### Name: MIRDULA D
